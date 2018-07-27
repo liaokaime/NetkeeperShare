@@ -1,0 +1,29 @@
+readme:
+	本文为RSAStandard.dll的文档，依赖BouncyCastle.Crypto.dll
+	该程序集使用RSA标准为：
+		密钥编码标准：		DER(pub/X509、pvt/PKCS8)编码的Base64形式
+		RSA加密标准：		RSA/ECB/PKCS1Padding
+		RSA明文编码标准：	UTF-8
+		RSA密文储存形式：	Base64
+		密钥对默认长度：	2048
+		
+RSAStandard.dll
+	sunflower.RSAStandard
+		RSAStandard
+			//无参构造器
+				RSAStandard();
+
+			//生成秘钥对，公钥键"PUBLIC",私钥键"PRIVATE"
+				public Dictionary<string, string> createRSAKeys();
+
+			//标准公钥加密
+				public string RSAEncryptByPub(string src, string pubKey);
+				
+			//标准私钥解密
+				public string RSADecryptByPvt(string src, string pvtKey)
+				
+			//标准私钥加密
+				public string RSAEncryptByPvt(string src, string pvtKey)
+				
+			//标准公钥解密
+				public string RSADecryptByPub(string src, string pubKey)

@@ -5,6 +5,8 @@
 
 大学课余开发，免费且开源，禁止用作商业用途，请保持良知。
 
+有兴趣请看我的这篇文章，[Netkeeper 探索分析](https://www.jianshu.com/p/c76432968fd6)
+
 
 # 环境和库
 * Vision Studio 2015+

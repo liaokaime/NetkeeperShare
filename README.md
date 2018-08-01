@@ -20,3 +20,4 @@
 
 # 许可
 * GPL v3
+* 请自行下载[NKShare授权器](https://github.com/liaokaime/NetkeeperShare/releases/tag/0.1)激活软件

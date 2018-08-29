@@ -7,6 +7,22 @@
 
 有兴趣请看我的这篇文章，[Netkeeper 探索分析](https://www.jianshu.com/p/c76432968fd6)
 
+# 路由支持
+目前已知支持的列表，有一些相似的型号应该也支持，请自行测试。
+* TP-Link 普联
+  * TL-WR886N
+  * TL-WR885N
+  * TL-WRD5600(待定)
+* Mercury 水星
+  * MW-150R
+  * MW-300R
+  * MW-305R
+  * MW-325R
+* Fast 迅捷
+  * FW-150R
+  * FW-300R
+  * FW-325R
+* 其它
 
 
 # 环境和库

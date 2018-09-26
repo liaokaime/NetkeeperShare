@@ -32,7 +32,7 @@
 * Devexpress 15.2 
 * WinPcap / SharpPCAP
 
-请根据Vision Studio的具体提示把这个项目运行起来，或直接下载[NKshare Releases](https://github.com/liaokaime/NetkeeperShare/releases)
+请根据Vision Studio的具体提示把这个项目运行起来，或者直接下载[NKshare 已编译程序](https://github.com/liaokaime/NetkeeperShare/releases)
 
 
 # 许可

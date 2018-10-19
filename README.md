@@ -12,6 +12,7 @@
 * TP-Link 普联
   * TL-WR886N
   * TL-WR885N
+  * TL-WR842N
   * TL-WRD5600(待定)
 * Mercury 水星
   * MW-150R

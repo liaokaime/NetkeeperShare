@@ -29,7 +29,7 @@
 
 
 # 环境和库
-* Vision Studio 2015+
+* Visual Studio 2015+
 * NET Framework 4.0
 * Devexpress 15.2 
 * WinPcap / SharpPCAP
